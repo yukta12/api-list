@@ -13,11 +13,13 @@ You can find the guides for Contribution Or ***How to get Started*** from [here]
 * [Messaging](#message)
 * [Weather](#weather)
 
+
 ### Messaging
 API | Description | Languages | API KEY AVAILABLE | IS FREE
 |---|---|---|---|---|
 | [MSG91](/messaging/msg91/) | Add SMS, Email & Voice APIs into your product | Java, PHP | Yes | NO |
-###Weather
+
+### Weather
 API | Description | Languages | API KEY AVAILABLE | IS FREE
 |---|---|---|---|---|
 | [openweathermap](/weather/open-weather-api/) | Access current weather data for any location on Earth | JS | Yes | YES |
