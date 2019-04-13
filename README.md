@@ -12,6 +12,7 @@ You can find the guides for Contribution Or ***How to get Started*** from [here]
 
 * [Messaging](#message)
 * [News](#news)
+* [Weather](#weather)
 
 ### Messaging
 API | Description | Languages | API KEY AVAILABLE | IS FREE
@@ -22,3 +23,7 @@ API | Description | Languages | API KEY AVAILABLE | IS FREE
 API | Description | Languages | API KEY AVAILABLE | IS FREE
 |---|---|---|---|---|
 | [newsapi.org](/messaging/newsapi/) | show users live top and breaking news headlines | Java | Yes | Yes|
+### Weather
+API | Description | Languages | API KEY AVAILABLE | IS FREE
+|---|---|---|---|---|
+| [openweathermap](/weather/open-weather-api/) | Access current weather data for any location on Earth | JS | Yes | YES |
